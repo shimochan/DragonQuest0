@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 40dd9202d0ed09b449deb3f3a770a80f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meraPrefab: {instanceID: 0}
+  - AttackPosition: {instanceID: 0}
+  - ShotPosition: {instanceID: 0}
+  - ground: {instanceID: 0}
+  - Head: {instanceID: 0}
+  - texthp: {instanceID: 0}
+  - textmaxhp: {instanceID: 0}
+  - textmp: {instanceID: 0}
+  - textmaxmp: {instanceID: 0}
+  - damageSE: {fileID: 8300000, guid: 1587225b696899d45845c993ef3aa39a, type: 3}
+  - fade: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
